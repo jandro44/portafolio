@@ -1,4 +1,3 @@
-
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
@@ -10,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg-12.jpeg") top right no-repeat;
+  background: #040404 url("../img/bg1.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -22,6 +21,12 @@ body::before {
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
+  }
+}
+
+@media (max-width: 456px) {
+  #header h1 a {
+    font-size: 26px;
   }
 }
 
@@ -570,11 +575,12 @@ section .container {
 # Portfolio
 --------------------------------------------------------------*/
 .btn-proyecto {
-  background: #18d26e; 
+  background: #18d26e;
   color: #fafafa;
 }
+
 .btn-proyecto:hover {
-  background: #1e7a49; 
+  background: #1e7a49;
   color: #fafafa;
   transition: all 0.2s ease-in;
 }
