@@ -1,49 +1,55 @@
 {
     "proyectos": [
         {
-            "id": "8",
+            "id": "1",
             "name": "Spare Motors DT",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1721884359/sparemotors_fuhoor.png",
             "link": "https://sparemotorsdt.cl/"
         },
         {
-            "id": "1",
+            "id": "2",
             "name": "Agenda de Citas",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/agendaPAcientes_eqsdxo.png",
             "link": "https://velvety-conkies-9a613b.netlify.app/"
         },
         {
-            "id": "7",
+            "id": "3",
             "name": "Planificador de Gastos",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/planificadorgastos_vm8mfk.png",
             "link": "https://fabulous-dodol-f4ae8b.netlify.app/"
         },
         {
-            "id": "2",
-            "name": "Tienda de Guitarras",
-            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/tiendaGuitarras_wdahcv.png",
-            "link": "https://guitar-la-next-js-tawny.vercel.app/"
-        },
-        {
-            "id": "3",
-            "name": "Cotizador de Criptomoneda",
-            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/criptomoneda_pvofe0.png",
-            "link": "https://glittering-taiyaki-2d3ef1.netlify.app/"
-        },
-        {
             "id": "4",
-            "name": "Buscador de Clima",
-            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/clima_xqaegt.png",
-            "link": "https://amazing-gingersnap-8a6197.netlify.app/"
+            "name": "Tienda de Guitarras (Demo)",
+            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/tiendaGuitarras_wdahcv.png",
+            "link": "https://guitar-la-next-rklcg1gzz-jandro44.vercel.app/"
         },
         {
             "id": "5",
             "name": "Carta Menú",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1685688994/comilon_hrlc9w.png",
-            "link": "https://comilon-pedido-production.up.railway.app/"
+            "link": "https://magnificent-brioche-527ee4.netlify.app/"
         },
         {
             "id": "6",
+            "name": "Buscador de Bebidas",
+            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1721894097/bebidas_pb5t3s.png",
+            "link": "https://cheery-pony-343270.netlify.app/"
+        },
+        {
+            "id": "7",
+            "name": "Cotizador de Criptomoneda",
+            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/criptomoneda_pvofe0.png",
+            "link": "https://glittering-taiyaki-2d3ef1.netlify.app/"
+        },
+        {
+            "id": "8",
+            "name": "Buscador de Clima",
+            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/clima_xqaegt.png",
+            "link": "https://amazing-gingersnap-8a6197.netlify.app/"
+        },
+        {
+            "id": "9",
             "name": "Cotizador seguro Automotriz",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/cotizadorautomotriz_quvsga.png",
             "link": "https://helpful-donut-6efab6.netlify.app/"
