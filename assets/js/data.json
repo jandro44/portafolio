@@ -1,10 +1,22 @@
 {
     "proyectos": [
         {
+            "id": "8",
+            "name": "Spare Motors DT",
+            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1721884359/sparemotors_fuhoor.png",
+            "link": "https://sparemotorsdt.cl/"
+        },
+        {
             "id": "1",
             "name": "Agenda de Citas",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/agendaPAcientes_eqsdxo.png",
             "link": "https://velvety-conkies-9a613b.netlify.app/"
+        },
+        {
+            "id": "7",
+            "name": "Planificador de Gastos",
+            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/planificadorgastos_vm8mfk.png",
+            "link": "https://fabulous-dodol-f4ae8b.netlify.app/"
         },
         {
             "id": "2",
@@ -35,12 +47,6 @@
             "name": "Cotizador seguro Automotriz",
             "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/cotizadorautomotriz_quvsga.png",
             "link": "https://helpful-donut-6efab6.netlify.app/"
-        },
-        {
-            "id": "7",
-            "name": "Planificador de Gastos",
-            "image": "https://res.cloudinary.com/dkdomscsm/image/upload/v1682493623/planificadorgastos_vm8mfk.png",
-            "link": "https://fabulous-dodol-f4ae8b.netlify.app/"
         }
     ]
 }
